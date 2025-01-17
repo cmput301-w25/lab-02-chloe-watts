@@ -3,12 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Chloe Watts`
+- **CCID:** `ckwatts`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/a/40929808
+https://developer.android.com/reference/android/widget/ListView
 
 ## Verbal Collaboration
 
